@@ -125,5 +125,5 @@ Oczekiwane: w sekcji `Used` widać zużycie zasobów przez działające Pody.
 
 ---
 
-# [Potwierdzenie działania na zdjęciach np. 1.png-8.png w folderze "zrzuty ekranu"]
+# [Potwierdzenie działania na zdjęciach SCREEN 1.png - SCREEN 8.png w folderze "zrzuty ekranu"]
 
